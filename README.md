@@ -82,7 +82,7 @@ java -jar target/my-app-1.0-SNAPSHOT.jar
 
 \## Tools and Technologies Used
 
-\- Java (JDK 17)
+\- Java (JDK 25)
 
 \- Apache Maven
 
@@ -92,6 +92,7 @@ java -jar target/my-app-1.0-SNAPSHOT.jar
 
 \- Visual Studio Code
 
+Demo update: Git workflow demonstration during presentation.
 
 
 
