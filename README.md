@@ -92,7 +92,8 @@ java -jar target/my-app-1.0-SNAPSHOT.jar
 
 \- Visual Studio Code
 
-Demo update: Git workflow demonstration during presentation.
+update: Git workflow demonstration during presentation.
+
 
 
 
