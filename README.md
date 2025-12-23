@@ -95,6 +95,6 @@ java -jar target/my-app-1.0-SNAPSHOT.jar
 update: Git workflow demonstration during presentation.
 
 
-updated the readme file
+updated the readme file.
 
 
